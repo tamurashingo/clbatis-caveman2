@@ -1,5 +1,7 @@
 # Clbatis-Caveman2 - clbatis-caveman2 integrates Cl-Batis seamlessly with Caveman2
 
+[![Build Status](https://travis-ci.org/tamurashingo/clbatis-caveman2.svg?branch=master)](https://travis-ci.org/tamurashingo/clbatis-caveman2)
+
 ## Usage
 
 ## Installation
